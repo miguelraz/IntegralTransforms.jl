@@ -27,101 +27,101 @@ This is my first package so any suggestions are highly encouraged.
 
 ### Integral Transforms
 
-[] Abel
+[ ] Abel
 
-[] Bateman
+[ ] Bateman
 
-[] Bracewell
+[ ] Bracewell
 
-[] Borel
+[ ] Borel
 
-[] Fourier
+[ ] Fourier
 
-[] ShortTime Fourier
+[ ] ShortTime Fourier
 
-[] Hankel
+[ ] Hankel
 
-[] Hartley
+[ ] Hartley
 
-[] Hermite
+[ ] Hermite
 
-[] Hilber
+[ ] Hilber
 
-[] Jacobi
+[ ] Jacobi
 
-[] Laguerre
+[ ] Laguerre
 
-[] Laplace
+[ ] Laplace
 
-[] TwosidedLaplace
+[ ] TwosidedLaplace
 
-[] LaplaceCarson
+[ ] LaplaceCarson
 
-[] LaplaceStieltjes
+[ ] LaplaceStieltjes
 
-[] Legendre
+[ ] Legendre
 
-[] LinearCanonical
+[ ] LinearCanonical
 
-[] Mellin
+[ ] Mellin
 
-[] PoissonMellinNewton
+[ ] PoissonMellinNewton
 
-[] NTransform
+[ ] NTransform
 
-[] RadonTransform
+[ ] RadonTransform
 
-[] Stieltjes
+[ ] Stieltjes
 
-[] Sumudu
+[ ] Sumudu
 
-[] Wavelet
+[ ] Wavelet
 
-[] Weierstrass
+[ ] Weierstrass
 
 ### Discrete
 
-[] Binomial
+[ ] Binomial
 
-[] DiscreteFourier
+[ ] DiscreteFourier
 
-[] FFTransform
+[ ] FFTransform
 
-[] DiscreteCosine
+[ ] DiscreteCosine
 
-[] ModifiedDiscreteCosine
+[ ] ModifiedDiscreteCosine
 
-[] DiscreteHartley
+[ ] DiscreteHartley
 
-[] DiscreteSine
+[ ] DiscreteSine
 
-[] DiscreteWavelet
+[ ] DiscreteWavelet
 
-[] Hadamard
+[ ] Hadamard
 
-[] FastWavelet
+[ ] FastWavelet
 
-[] Hankel
+[ ] Hankel
 
-[] DiscreteChebyshev
+[ ] DiscreteChebyshev
 
-[] DiscreteHankel
+[ ] DiscreteHankel
 
-[] FiniteLegendre
+[ ] FiniteLegendre
 
-[] SphericalHarmonic
+[ ] SphericalHarmonic
 
-[] IrrationalBaseWeighted
+[ ] IrrationalBaseWeighted
 
-[] NumberTheoretic
+[ ] NumberTheoretic
 
-[] Stirling
+[ ] Stirling
 
 ## Discrete Time
 
-[] DiscreteTime Fourier
+[ ] DiscreteTime Fourier
 
-[] ZTransform
+[ ] ZTransform
 
 ## Others
 
