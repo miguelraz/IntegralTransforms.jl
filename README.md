@@ -28,99 +28,56 @@ This is my first package so any suggestions are highly encouraged.
 ### Integral Transforms
 
 - [ ] Abel
-
 - [ ] Bateman
-
 - [ ] Bracewell
-
 - [ ] Borel
-
 - [ ] Fourier
-
 - [ ] ShortTime Fourier
-
 - [ ] Hankel
-
 - [ ] Hartley
-
 - [ ] Hermite
-
 - [ ] Hilber
-
 - [ ] Jacobi
-
 - [ ] Laguerre
-
 - [ ] Laplace
-
 - [ ] TwosidedLaplace
-
 - [ ] LaplaceCarson
-
 - [ ] LaplaceStieltjes
-
 - [ ] Legendre
-
 - [ ] LinearCanonical
-
 - [ ] Mellin
-
 - [ ] PoissonMellinNewton
-
 - [ ] NTransform
-
 - [ ] RadonTransform
-
 - [ ] Stieltjes
-
 - [ ] Sumudu
-
 - [ ] Wavelet
-
 - [ ] Weierstrass
 
 ### Discrete
 
 - [ ] Binomial
-
 - [ ] DiscreteFourier
-
 - [ ] FFTransform
-
 - [ ] DiscreteCosine
-
 - [ ] ModifiedDiscreteCosine
-
 - [ ] DiscreteHartley
-
 - [ ] DiscreteSine
-
 - [ ] DiscreteWavelet
-
 - [ ] Hadamard
-
 - [ ] FastWavelet
-
 - [ ] Hankel
-
 - [ ] DiscreteChebyshev
-
 - [ ] DiscreteHankel
-
 - [ ] FiniteLegendre
-
 - [ ] SphericalHarmonic
-
 - [ ] IrrationalBaseWeighted
-
 - [ ] NumberTheoretic
-
 - [ ] Stirling
 
 ## Discrete Time
 
 - [ ] DiscreteTime Fourier
-
 - [ ] ZTransform
 
 ## Others
