@@ -14,7 +14,7 @@ abstract type  AbstractForwardLaplaceTransform <: AbstractLaplaceTransform end
 abstract type AbstractInverseLaplaceTransform <: AbstractLaplaceTransform end
 # We export the public API, not the internal functionality.
 # \U+2212
-export ℒ, invℒ
+export ℒ, invℒ, func, func2, func3, func4, func5, func6
 
 include("laplace.jl")
 

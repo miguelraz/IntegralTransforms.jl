@@ -2,9 +2,9 @@
 #   http://www.mkdocs.org/user-guide/configuration/
 
 site_name:        IntegralTransforms.jl
-#repo_url:         https://github.com/USER_NAME/PACKAGE_NAME.jl
-#site_description: Description...
-#site_author:      USER_NAME
+#repo_url:         https://github.com/miguelraz/IntegralTransforms.jl
+#site_description: Ain't no func like Special Function func :spock-hand:
+#site_author:      mrg
 
 theme: readthedocs
 
