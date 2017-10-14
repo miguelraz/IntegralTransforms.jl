@@ -28,6 +28,6 @@ docs_dir: 'build'
 pages:
   - Introduction: index.md
   - Tutorial:
-    - Title 1: tutorials/basicmacros.md
-    - Title 2: tutorials/advancedmacros.md
-    - Title 3: tutorials/macrotransforms.md
+    - Basic Macros: tutorials/basicmacros.md
+    - Advanced Macros: tutorials/advancedmacros.md
+    - Macro Transforms: tutorials/macrotransforms.md

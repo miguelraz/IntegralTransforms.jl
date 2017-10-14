@@ -1,5 +1,4 @@
 # Test setup
-
 #Beware of size of tests and time they take.
 tic()
 #@testsetup will run everything after the begin and end and report
@@ -7,4 +6,5 @@ tic()
 @testset "Abstract Hierarchies" begin
     include("testtypes.jl")
 end
+
 toc()
