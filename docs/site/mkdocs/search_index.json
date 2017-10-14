@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "IntegralTransforms.jl\n\n\nThis is the initial commit to the Documentation of IntegralTransforms.jl\n\n\nWe will start by trying to introduce production-oriented pragmatic coders towards the skillset that lets one use Julia to its full capacity through the Laplace Transform Example,  \u2112, and its inverse, inv\u2112.\n\n\nDocumentation for IntegralTransforms.jl\n\n\n#\n\n\nIntegralTransforms.\u2112\n \n \nMethod\n.\n\n\n \u2112(f)\n\n\n\n\n\nLaplace Transform of a real function. Its inverse is the inv\u2112(f) operator.\n\n\n\n\nMarkdown works in here.\n\n\n$LaTeX$\n\n\n\n\n\n\n\nSameAs LaTeX\n\n\n\n\n\nsource\n\n\nThe first link can be plaintext, the second can be a function, etc.\n\n\n\n\nlink to \nIntegralTransforms.jl\n\n\nlink to \n\u2112(x)\n\n\n\n\n\n\nOther Transforms\n\n\nOther transforms of interest will be added eventually. Any contributing PRs to those signalled in the README are more than welcome.\n\n\n\n\nTutorials\n\n\nTODO: Follow the step-by-step guide on build-a-Transf to see how you can do some macro magic and contribute.\n\n\n\n\nBasic Macros\n\n\nSuper cool features and exercises\n\n\n\n\n\n\nMacro Transforms\n\n\nSuper cool features and exercises\n\n\n\n\n\n\n\n\n\n\nBasic Toolchain\n\n\nYou should probably understand the stages of compilation of Julia, what are \"generated\" functions, and have done some basic tutorials on macro escaping and hygiene.\n\n\n\n\nIndex\n\n\n\n\nIntegralTransforms.func\n\n\nIntegralTransforms.func2\n\n\nIntegralTransforms.func3\n\n\nIntegralTransforms.func4\n\n\nIntegralTransforms.func5\n\n\nIntegralTransforms.func6\n\n\nIntegralTransforms.\u2112", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#integraltransformsjl", 
+            "text": "This is the initial commit to the Documentation of IntegralTransforms.jl  We will start by trying to introduce production-oriented pragmatic coders towards the skillset that lets one use Julia to its full capacity through the Laplace Transform Example,  \u2112, and its inverse, inv\u2112.  Documentation for IntegralTransforms.jl  #  IntegralTransforms.\u2112     Method .   \u2112(f)  Laplace Transform of a real function. Its inverse is the inv\u2112(f) operator.   Markdown works in here.  $LaTeX$    \nSameAs LaTeX   source  The first link can be plaintext, the second can be a function, etc.   link to  IntegralTransforms.jl  link to  \u2112(x)", 
+            "title": "IntegralTransforms.jl"
+        }, 
+        {
+            "location": "/#other-transforms", 
+            "text": "Other transforms of interest will be added eventually. Any contributing PRs to those signalled in the README are more than welcome.", 
+            "title": "Other Transforms"
+        }, 
+        {
+            "location": "/#tutorials", 
+            "text": "TODO: Follow the step-by-step guide on build-a-Transf to see how you can do some macro magic and contribute.   Basic Macros  Super cool features and exercises    Macro Transforms  Super cool features and exercises", 
+            "title": "Tutorials"
+        }, 
+        {
+            "location": "/#basic-toolchain", 
+            "text": "You should probably understand the stages of compilation of Julia, what are \"generated\" functions, and have done some basic tutorials on macro escaping and hygiene.", 
+            "title": "Basic Toolchain"
+        }, 
+        {
+            "location": "/#index", 
+            "text": "IntegralTransforms.func  IntegralTransforms.func2  IntegralTransforms.func3  IntegralTransforms.func4  IntegralTransforms.func5  IntegralTransforms.func6  IntegralTransforms.\u2112", 
+            "title": "Index"
+        }
+    ]
+}
