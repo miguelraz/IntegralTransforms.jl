@@ -9,4 +9,26 @@
     </url>
     
 
+    
+        
+    <url>
+     <loc>/tutorials/basicmacros/</loc>
+     <lastmod>2017-10-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/tutorials/advancedmacros/</loc>
+     <lastmod>2017-10-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/tutorials/macrotransforms/</loc>
+     <lastmod>2017-10-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
 </urlset>

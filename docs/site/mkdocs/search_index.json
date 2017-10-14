@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "IntegralTransforms.jl\n\n\nThis is the initial commit to the Documentation of IntegralTransforms.jl\n\n\nWe will start by trying to introduce production-oriented pragmatic coders towards the skillset that lets one use Julia to its full capacity through the Laplace Transform Example,  \u2112, and its inverse, inv\u2112.\n\n\nDocumentation for IntegralTransforms.jl\n\n\n#\n\n\nIntegralTransforms.\u2112\n \n \nMethod\n.\n\n\n \u2112(f)\n\n\n\n\n\nLaplace Transform of a real function. Its inverse is the inv\u2112(f) operator.\n\n\n\n\nMarkdown works in here.\n\n\n$LaTeX$\n\n\n\n\n\n\n\nSameAs LaTeX\n\n\n\n\n\nsource\n\n\nThe first link can be plaintext, the second can be a function, etc.\n\n\n\n\nlink to \nIntegralTransforms.jl\n\n\nlink to \n\u2112(x)\n\n\n\n\n\n\nOther Transforms\n\n\nOther transforms of interest will be added eventually. Any contributing PRs to those signalled in the README are more than welcome.\n\n\n\n\nTutorials\n\n\nTODO: Follow the step-by-step guide on build-a-Transf to see how you can do some macro magic and contribute.\n\n\n\n\nBasic Macros\n\n\nSuper cool features and exercises\n\n\n\n\n\n\nMacro Transforms\n\n\nSuper cool features and exercises\n\n\n\n\n\n\n\n\n\n\nBasic Toolchain\n\n\nYou should probably understand the stages of compilation of Julia, what are \"generated\" functions, and have done some basic tutorials on macro escaping and hygiene.\n\n\n\n\nIndex\n\n\n\n\nIntegralTransforms.func\n\n\nIntegralTransforms.func2\n\n\nIntegralTransforms.func3\n\n\nIntegralTransforms.func4\n\n\nIntegralTransforms.func5\n\n\nIntegralTransforms.func6\n\n\nIntegralTransforms.\u2112", 
-            "title": "Home"
+            "title": "Introduction"
         }, 
         {
             "location": "/#integraltransformsjl", 
@@ -29,6 +29,51 @@
             "location": "/#index", 
             "text": "IntegralTransforms.func  IntegralTransforms.func2  IntegralTransforms.func3  IntegralTransforms.func4  IntegralTransforms.func5  IntegralTransforms.func6  IntegralTransforms.\u2112", 
             "title": "Index"
+        }, 
+        {
+            "location": "/tutorials/basicmacros/", 
+            "text": "Basic Macros\n\n\nHere we will learn the basics of Macros!\n\n\n\n\nSuper cool features and exercises\n\n\n#\n\n\nIntegralTransforms.func\n \n \nFunction\n.\n\n\nfunc(x) is 1 \n\n\nsource\n\n\n#\n\n\nIntegralTransforms.func2\n \n \nFunction\n.\n\n\nyay\n\n\nsource", 
+            "title": "Title 1"
+        }, 
+        {
+            "location": "/tutorials/basicmacros/#basic-macros", 
+            "text": "Here we will learn the basics of Macros!", 
+            "title": "Basic Macros"
+        }, 
+        {
+            "location": "/tutorials/basicmacros/#super-cool-features-and-exercises", 
+            "text": "#  IntegralTransforms.func     Function .  func(x) is 1   source  #  IntegralTransforms.func2     Function .  yay  source", 
+            "title": "Super cool features and exercises"
+        }, 
+        {
+            "location": "/tutorials/advancedmacros/", 
+            "text": "Advanced Macros\n\n\nHere we will learn the basics of Macros!\n\n\n\n\nSuper cool features and exercises\n\n\n#\n\n\nIntegralTransforms.func3\n \n \nFunction\n.\n\n\nyay\n\n\nsource\n\n\n#\n\n\nIntegralTransforms.func4\n \n \nFunction\n.\n\n\nyay\n\n\nsource", 
+            "title": "Title 2"
+        }, 
+        {
+            "location": "/tutorials/advancedmacros/#advanced-macros", 
+            "text": "Here we will learn the basics of Macros!", 
+            "title": "Advanced Macros"
+        }, 
+        {
+            "location": "/tutorials/advancedmacros/#super-cool-features-and-exercises", 
+            "text": "#  IntegralTransforms.func3     Function .  yay  source  #  IntegralTransforms.func4     Function .  yay  source", 
+            "title": "Super cool features and exercises"
+        }, 
+        {
+            "location": "/tutorials/macrotransforms/", 
+            "text": "Macro Transforms\n\n\nHere we will learn the basics of Macros!\n\n\n\n\nSuper cool features and exercises\n\n\n#\n\n\nIntegralTransforms.func5\n \n \nFunction\n.\n\n\nyay\n\n\nsource\n\n\n#\n\n\nIntegralTransforms.func6\n \n \nFunction\n.\n\n\nyay\n\n\nsource", 
+            "title": "Title 3"
+        }, 
+        {
+            "location": "/tutorials/macrotransforms/#macro-transforms", 
+            "text": "Here we will learn the basics of Macros!", 
+            "title": "Macro Transforms"
+        }, 
+        {
+            "location": "/tutorials/macrotransforms/#super-cool-features-and-exercises", 
+            "text": "#  IntegralTransforms.func5     Function .  yay  source  #  IntegralTransforms.func6     Function .  yay  source", 
+            "title": "Super cool features and exercises"
         }
     ]
 }

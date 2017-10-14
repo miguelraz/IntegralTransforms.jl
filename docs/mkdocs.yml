@@ -13,7 +13,7 @@ extra_css:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML
-  -  https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
   - assets/mathjaxhelper.js
 
 markdown_extensions:
@@ -26,4 +26,8 @@ markdown_extensions:
 docs_dir: 'build'
 
 pages:
-  - Home: index.md
+  - Introduction: index.md
+  - Tutorial:
+    - Title 1: tutorials/basicmacros.md
+    - Title 2: tutorials/advancedmacros.md
+    - Title 3: tutorials/macrotransforms.md
