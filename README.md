@@ -20,22 +20,26 @@ This is my first package so any suggestions are highly encouraged.
 # Transforms Roadmap
 
 - Priority will be given to Laplace, Fourier, Hankel, Mellin and some classical ones - in that order.
-- For the time being this list is only going off the [Wikipedia](https://en.wikipedia.org/wiki/List_of_transforms) page.
+- For the time being this list is only going off the [Wikipedia](https://en.wikipedia.org/wiki/List_of_transforms) page and these [Volume 1](https://authors.library.caltech.edu/43489/1/Volume%201.pdf) and [Volume 2](https://authors.library.caltech.edu/43489/7/Volume%202.pdf)
 - Feel free to PR some more!
+
 
 ### Integral Transforms
 
 - [ ] Abel
 - [ ] Bateman
-- [ ] Bracewell
 - [ ] Borel
+- [ ] Bracewell
+- [ ] Buschman Transform
 - [ ] Fourier
 - [ ] ShortTime Fourier
 - [ ] Hankel
 - [ ] Hartley
 - [ ] Hermite
-- [ ] Hilber
+- [ ] Hilbert
+- [ ] Hough
 - [ ] Jacobi
+- [ ] Kontorovich-Lebedev
 - [ ] Laguerre
 - [ ] Laplace
 - [ ] TwosidedLaplace
@@ -44,13 +48,22 @@ This is my first package so any suggestions are highly encouraged.
 - [ ] Legendre
 - [ ] LinearCanonical
 - [ ] Mellin
+- [ ] Mehler-Fock
+- [ ] Meijer
 - [ ] PoissonMellinNewton
 - [ ] NTransform
-- [ ] [RadonTransform](https://www.maa.org/press/maa-reviews/introduction-to-radon-transforms?r=mathfeed)
+- [ ] Narain G-Transform
+- [ ] [Radon Transform](https://www.maa.org/press/maa-reviews/introduction-to-radon-transforms?r=mathfeed)
+- [ ] Riemann-Liouville 
 - [ ] Stieltjes
 - [ ] Sumudu
 - [ ] Wavelet
 - [ ] Weierstrass
+- [ ] Weyl Fractional Integral
+- [ ] G - Transform
+- [ ] H - Transform
+- [ ] W - Transform
+- [ ] Z - Transform
 
 ### Discrete
 
